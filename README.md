@@ -1,8 +1,5 @@
 <img src="./profile-3d-contrib/profile-south-season.svg" />
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <!--
 **rbri/rbri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
